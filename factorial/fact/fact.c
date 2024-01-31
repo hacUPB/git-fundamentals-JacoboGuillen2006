@@ -9,6 +9,8 @@ int main(int argc, char *argv[]) {
     
     <h1>Evaluación</h1>
 
+    <h3>En esta Evaluaciòn deberan verificar que el numero entero es mayor o igual a 0, esta nota vale el 15% de la materia</h3>
+
     int number = atoi(argv[1]); //Convert the console input argument to an integer
     
     /*It must be verified that the entered number is greater than or equal to zero*/
