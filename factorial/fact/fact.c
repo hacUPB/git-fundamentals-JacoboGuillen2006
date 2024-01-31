@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
     </div>
 
 
-
+      <a class="nav-link" href=https:"//www.youtube.com/watch?v=_tG70FWd1Ds&list=RDGMEM2VCIgaiSqOfVzBAjPJm-ag&index=2">video</a>
     if (number < 0) {
         perror("El número debe ser mayor a cero");
         exit(1);
