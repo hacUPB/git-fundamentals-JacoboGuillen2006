@@ -36,5 +36,5 @@ int main(int argc, char *argv[]) {
         printf("%d is not a prime number\n", number);
     }
 
-    return 0;
+    return (0);
 }
