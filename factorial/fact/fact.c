@@ -11,7 +11,7 @@ int main(int argc, char *argv[]) {
 
     if (number < 0) {
         fprintf(stderr, "The number must be greater than or equal to zero\n");
-        return 1;
+        return (1);
     }
 
     int factorial = 1;
